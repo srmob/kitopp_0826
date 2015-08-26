@@ -1,0 +1,27 @@
+{
+    "jscodehints.detectedExclusions": [
+        "/Shashi-data/sriganesh/kitopp/platforms/android/assets/www/lib/ionic/js/ionic.bundle.js",
+        "/Shashi-data/sriganesh/kitopp/www/js/app.js",
+        "/Shashi-data/sriganesh/kitopp/www/lib/ionic/js/ionic-angular.min.js",
+        "/Shashi-data/sriganesh/kitopp/www/lib/ionic/js/ionic.bundle.js",
+        "/Shashi-data/sriganesh/kitopp/www/lib/ionic/js/ionic.bundle.min.js",
+        "/Shashi-data/sriganesh/kitopp/www/lib/ionic/js/ionic.js",
+        "/Shashi-data/sriganesh/kitopp/platforms/ios/build/emulator/kitopp.app/www/lib/ionic/js/ionic-angular.js",
+        "/Shashi-data/sriganesh/kitopp/www/lib/ionic/js/angular-ui/angular-ui-router.js",
+        "/Shashi-data/sriganesh/kitopp/www/js/controllers.js",
+        "/Shashi-data/sriganesh/kitopp_Modular/platforms/ios/build/emulator/kitopp.app/www/plugins/me.rahul.plugins.sqlDB/www/sqlDB.js",
+        "/Shashi-data/sriganesh/kitopp_Modular/www/js/services/loadAppServices.js",
+        "/Shashi-data/sriganesh/kitopp_Modular/www/js/controllers/loadAppControllers.js",
+        "/Shashi-data/sriganesh/kitopp_Modular/platforms/ios/www/cordova_plugins.js",
+        "/Shashi-data/sriganesh/kitopp_Modular/platforms/ios/www/js/app.js",
+        "/Shashi-data/sriganesh/kitopp_Modular/platforms/ios/cordova/lib/run.js",
+        "/Shashi-data/sriganesh/kitopp_Modular/platforms/ios/cordova/lib/spawn.js",
+        "/Shashi-data/sriganesh/kitopp_Modular/platforms/ios/cordova/lib/versions.js",
+        "/Shashi-data/sriganesh/kitopp_Modular/platforms/ios/www/plugins/de.appplant.cordova.plugin.email-composer/www/email_composer.js",
+        "/Shashi-data/sriganesh/kitopp_Modular/platforms/android/assets/www/lib/ionic/js/ionic.min.js",
+        "/Shashi-data/sriganesh/kitopp_ModularDB /platforms/android/assets/www/lib/ionic/js/ionic.min.js",
+        "/Shashi-data/sriganesh/kitopp_ModularFinal/platforms/android/assets/www/lib/ionic/js/ionic.min.js",
+        "/Shashi-data/sriganesh/kitopp_ModularFinal/www/js/controllers/buyerControllers.js",
+        "/Shashi-data/sriganesh/kitopp_ModularFinal/platforms/ios/build/emulator/kitopp.app/www/lib/ionic/js/angular-ui/angular-ui-router.min.js"
+    ]
+}
